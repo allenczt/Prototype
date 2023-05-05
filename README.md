@@ -1,2 +1,2 @@
-#Prototype file usage resources
+Prototype file usage resources
 
